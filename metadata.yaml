@@ -1,0 +1,29 @@
+_repo: Sketches-in-the-House--13-The-Story-of-a-Memorable-Session--1893-_14443
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: O'Connor, T. P. (Thomas Power)
+    alias: O'Connor, Thomas Power
+    birthdate: 1848
+    deathdate: 1929
+    gutenberg_agent_id: '5523'
+    url: http://www.gutenberg.org/2009/agents/5523
+description: ''
+gutenberg_issued: '2004-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14443'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Parliament. House of Commons'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Politics and government -- 1837-1901'
+- !lcsh 'Home rule -- Ireland'
+title: "Sketches in the House\r\nThe Story of a Memorable Session (1893)"
+url: http://www.gutenberg.org/ebooks/14443
