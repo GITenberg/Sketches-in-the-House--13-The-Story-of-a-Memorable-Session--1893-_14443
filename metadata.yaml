@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5523'
     url: http://www.gutenberg.org/2009/agents/5523
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14443#Sketches-in-the-House--13-The-Story-of-a-Memorable-Session--1893-
 gutenberg_issued: '2004-12-24'
 gutenberg_type: Text
 identifiers:
